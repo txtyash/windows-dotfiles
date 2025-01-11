@@ -1,0 +1,345 @@
+mv nushell\* .
+ls
+ls nushell\
+d window
+cd nushell\
+ls
+ls nushell\
+cd ..
+ls
+cd ..
+ls
+cd ..
+rm -r repos\
+ls
+d wind
+d personal\repos\windows-dotfiles\
+ls
+ls nushell\
+rm -r nushell\nushell\
+ls
+ls nushell\
+cd nushell\
+hx
+ls
+d windw
+d window
+ls
+cd nushell\
+ls
+cd ..
+ls
+mkdir nvim
+touch nvim\init.lua
+d ang
+ng generate component src\app\components\stepper
+rm -r src\app\src\app\components\stepper
+ng generate component stepper
+ng serve
+git status
+git diff
+ng serve
+d ang
+ng add ngx-mask
+npm i ngx-mask
+npm install --save ngx-mask@16.4.2
+di emsi
+rg phoneNoFormat
+rg phoneNoFormat app\
+rg showErrorCommercialMultiUnit
+rg showErrorCommercialMultiUnit app\
+hx app\scripts\services\emSignerFactory.js
+di emsi
+ls
+di emsi
+rg enrollcustomernew
+rg enrollcustomernew app\
+rg showErrorCommercialMultiUnit app\
+d ang
+git log
+hx
+ls
+lua --help
+luau
+lua
+winget install "lua for windows"
+nvim
+di emsi
+git status
+git diff
+git status
+git add --all; git commit -m "moves personal & contact info components to service-address-tx directory"
+git push
+ng serve
+d nvim
+d windo
+pwd
+cd nvim\
+ls
+d windo
+ls
+cd nvim\
+ls
+mkdir lua
+mkdir lua\config
+touch lua\config\lazy.lua
+mkdir lua\plugins
+ls lua\plugins\
+touch lua\plugins\flash.lua
+nvim
+:ls
+ls
+pwd
+ls
+ls lua
+cd lua\config\
+ls
+touch keymap.lua
+git ls-files
+git help
+git help ls-files
+nvim
+d wind
+ls
+cd nvim\
+ls
+cd lua\
+ls
+ls config\
+ls plugins\
+nvim
+nvim tmp.txt
+nvim
+ls
+d wind
+ls
+d ang
+UsageChargeByUtilityKey
+rg UsageChargeByUtilityKey
+di emsi
+rg UsageChargeByUtilityKey app\
+rg isSwitch app\
+g --help
+goto --help
+whatis goto
+which goto
+goto
+d ang
+d personal\
+ls
+ls downloads\
+rm -r downloads\emsigner\
+cd ..
+ls
+cd work\
+ls
+mv new\emsigner\ ep-solutions\emsigner\code\
+d ep-solutions\emsigner\
+d code\
+ls
+mv emsigner\ emsigner-old
+ls
+ng serve
+d old
+l
+ls
+cd emsigner-old\
+ls
+rg isSwitch app\
+d wind
+l
+ls
+cd nvim\
+ls
+ls lua\
+mkdir lua\lsp
+touch lua\lsp\angular.lua
+rm -r lua\lsp
+mkdir lua\language
+touch lua\language\angular.lua
+ls
+nvim
+ls
+nvim
+hx --health angular
+bun i -g @angular/language-server
+ls
+ngserver.exe --help
+nvim
+choco install stylua
+exit
+stylua.exe 
+nvim
+nvim --version
+hx --health typescript
+typescript-language-server
+nvim
+lls
+d tex
+d personal\repos\textyash.com\
+git status
+ls
+nvim
+ls
+d tex
+nvim
+nvim
+hx
+d tex
+nvim
+d ang
+nvim
+d ang
+nvim
+d ang
+nvim
+vscode-css-language-server.cmd 
+d wind
+ls
+d nvim\
+ls
+nvim
+d ang
+vscode-html-language-server.cmd
+nvim
+ls
+nvim
+d ang
+nvim
+d ang
+nvim
+di emsi
+cityIsSelectable
+di emsi
+rg cityIsSelectable app\
+git status
+git diff
+d ang
+git diff
+d old
+rg IsAmsr app\
+rg customerName app\
+rg mobilePhoneNumber app\
+rg preferredContactInfoType app\
+rg enrollment.preferredContactMethod app\
+nvim
+rg "DepositAmountRequired" app\
+rg CustomFieldKeyCollection app\
+rg authorizedUserName app\
+which zig
+zig --help
+choco install zig
+zig
+zig zen
+nvim main.zig
+l
+ls
+zig run main.zig
+zig fmt main.zig
+rg MeterNumber app\
+rg serviceAddressForm\.county app\
+rg county app\
+rg customerBillingInfo.fax app\
+rg isPaper app\
+rg CreditCheckResult app\
+rg creditCheckCustomer app\
+d ang
+git remote -v
+git status
+git log
+git status
+git status
+git log
+git add --all; git commit -m "Integrates enrollment api"; git push
+git status
+nvim
+ls
+rg isEFLUrl
+rg isEFLUrl app\
+rg enrollment.EFLUrl app\
+rg customerName app\
+rg enrollment.SelectedPremise app\
+rg enrollment.selectedPremise app\
+rg enrollment.PremiseType app\
+rg enrollment.selectedPremise app\
+rg datePickerShow app\
+d ang
+nvim
+d old
+rg enrollment.DepositAmountRequired app\
+rg creditCheckCustomer app\
+rg unknownErrorMsg app\
+rg wizardHandler app\
+rg wizardHandler 
+rg WizardHandler 
+rg WizardHandler app\
+rg enrollment.isAuthorizedUser app\
+rg changesWizardStep app\
+rg salesAgent app\
+ls
+rg salesAgent script\
+rg -i salesAgent script\
+rg -i salesAgent app
+rg -i salesAgent tmp
+rg standardSwitchDate app\
+rg serviceLocation app\
+rg -i enrollmentCode app\
+CustomFieldKey
+rg CustomFieldKey app\
+rg getCustomField app\
+rg DepositAmountRequired app\
+rg isAddressValidation app\
+node
+d ang
+ng add moment
+npm i moment
+rg datePickerShow app\
+rg PremiseType app\
+rg isAddressValidation app\
+rg validateAddress app\
+git status
+git diff
+rg validateAddress app\
+rg selectedAddress app\
+rg userEsiid app\
+rg searchAddress app\
+rg 'searchAddress(' app\
+rg 'searchAddress\(' app\
+rg factory.serviceAddress app\
+rg -e "factory\.serviceAddress[^A-Za-z]" app\
+rg -e "factory.serviceAddress[^A-Za-z]" app\
+rg showErrorResidentialMultiUnit app\
+rg -i showErrorResidentialMultiUnit app\
+rg showErrorResidentialMultiUnit app\
+rg noAddressFoundError app\
+rg userEsiid app\
+rg compareEsiid app\
+rg creditCheck app\
+rg showEsiid app\
+rg -i noAddressFoundError app\
+rg showServiceAddress app\
+rg selectedPremiseToShow app\
+rg ADDRESS_MSG_FOR_COMMERCIAL app\
+rg validateAddress app\
+node
+d old
+rg getCustomField app\
+bun repl
+node
+rg ErrorCodeFromApi app\
+rg displayBlockedMessgae app\
+rg getCustomField app\
+rg callCustomerServiceStatus app\
+rg 'gtag.*=function' app\
+rg 'gtag.*function' app\
+rg 'gtag' app\
+git status
+git status | rg tmp
+git add --all; git commit -m "update"; git push
+git status
+git log
+git show 806
+git show 8062
+cp X:\tmp\emsigner.md X:\personal\repos\windows-dotfiles\
+d wind
+git status
