@@ -343,3 +343,7 @@ git show 8062
 cp X:\tmp\emsigner.md X:\personal\repos\windows-dotfiles\
 d wind
 git status
+git add --all; git commit -m "update"; git push
+git status
+mv X:\personal\pictures\ X:\personal\repos\windows-dotfiles\
+d wind
